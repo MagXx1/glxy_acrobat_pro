@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+pyautogui
+pandas
+keyboard
+pillow
+PyMuPDF

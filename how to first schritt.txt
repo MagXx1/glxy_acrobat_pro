@@ -1,0 +1,8 @@
+# 1. venv aktivieren
+G:\PythonEnv\glxy_acrobat_pro\Scripts\Activate.ps1
+
+# 2. Zum Projekt wechseln  
+cd G:\GLXY_ACROBAT_PRO
+
+# 3. Entwickeln
+python src/main.py
